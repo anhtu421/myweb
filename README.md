@@ -1,6 +1,6 @@
 
 <html>
-</head>
+
 <body>
 
 <h1>Lê Anh Tú Khoa Cntt k48</h1>
